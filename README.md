@@ -32,16 +32,17 @@ To-do list:
 
 * Copy the url of the github repository.
 * Open gitbash or other program that uses git and type git clone and paste github url
-* 
-* Open project in UiPath.
+* Install UIPath 
+* Open cloned project file in UiPath.
 * Run project in Main xaml file
 
 ## Usage
 
-> Here, you instruct other people on how to use your project after they’ve installed it. This would also be a good place to include screenshots of your project in action.
+* In UIPath open Main WorkFlow and run File to open navigation menu to use different features.
+>![image](https://user-images.githubusercontent.com/84421154/143895453-3da5a45f-3ab4-4815-83db-564b12b5f24a.png)
 
 
 ## License
 
-This project uses the following license: [<license_name>](<link>).
+This project uses the following license: UIPath Studio Community Plan.
 
