@@ -11,8 +11,8 @@ This Robototic Shopping Assistant(RoSA) will be used to automate shopping for cu
 * HTML, CSS, JS
 
 ## Websites
-Self-made store(https://210927-reston-uipath.github.io/Agenor_S-Website/)
-PEGA Store Website (https://training.openspan.com/login)
+* Self-made store(https://210927-reston-uipath.github.io/Agenor_S-Website/)
+* PEGA Store Website (https://training.openspan.com/login)
 
 ## Features
 
@@ -29,15 +29,12 @@ To-do list:
 
 
 ## Getting Started
-   
-(include git clone command)
-(include all environment setup steps)
 
-> Be sure to include BOTH Windows and Unix command  
-> Be sure to mention if the commands only work on a specific platform (eg. AWS, GCP)
-
-- All the `code` required to get started
-- Images of what it should look like
+* Copy the url of the github repository.
+* Open gitbash or other program that uses git and type git clone and paste github url
+* 
+* Open project in UiPath.
+* Run project in Main xaml file
 
 ## Usage
 
